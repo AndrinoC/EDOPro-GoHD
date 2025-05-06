@@ -1,7 +1,5 @@
 # EDOPro GoHD
 HD image downloader for EDOPro.
-![Before](https://github.com/user-attachments/assets/4c63eeeb-8d72-4dff-bc69-03cc37410ce9)
-![After](https://github.com/user-attachments/assets/61f0e91d-8d28-45bb-a58f-9140059b3005)
 
 # Installation & Usage
 
@@ -14,3 +12,10 @@ Download the PICS folder from [Latest PICS](https://github.com/AndrinoC/EDOPro-H
 # Issues
 
 Any new issue or feedback can be shared at the [Issues Tab](https://github.com/AndrinoC/EDOPro-GoHD/issues)
+
+# Results
+
+## Before
+![Before](https://github.com/user-attachments/assets/4c63eeeb-8d72-4dff-bc69-03cc37410ce9)
+## After
+![After](https://github.com/user-attachments/assets/61f0e91d-8d28-45bb-a58f-9140059b3005)
