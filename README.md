@@ -1,5 +1,5 @@
 # EDOPro GoHD
-HD image downloader for EDOPro.
+HD card image downloader for EDOPro made with Go.
 
 # Installation & Usage
 
