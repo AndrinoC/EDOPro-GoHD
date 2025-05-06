@@ -1,7 +1,7 @@
 # EDOPro GoHD
-
-This is the GO version of EDOPro Hd Cards.
-It performs slightly better than the Python version.
+HD image downloader for EDOPro.
+![Before](https://github.com/user-attachments/assets/4c63eeeb-8d72-4dff-bc69-03cc37410ce9)
+![After](https://github.com/user-attachments/assets/61f0e91d-8d28-45bb-a58f-9140059b3005)
 
 # Installation & Usage
 
