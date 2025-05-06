@@ -103,10 +103,10 @@ func downloadImagesConcurrently(itemsToDownload []DownloadItem) int {
 	fmt.Printf("\nDownload process finished. Processed: %d/%d. Successful: %d.           \n",
 		finalProcessed, totalItems, finalSuccessful)
 	if finalOtherErrors > 0 {
-		fmt.Printf("%d downloads failed due to non-HTTP errors (timeouts, file system issues, cache append errors etc.). Check logs above.\n", finalOtherErrors)
+		fmt.Printf("%d downloads failed due to non-HTTP errors.\n", finalOtherErrors)
 	}
 	if finalHttpErrors > 0 && int(finalSuccessful) < totalItems-finalOtherErrors {
-		fmt.Printf("%d downloads likely failed due to HTTP errors (e.g., 404 Not Found).\n", finalHttpErrors)
+		fmt.Printf("%d downloads likely failed due to HTTP errors.\n", finalHttpErrors)
 	}
 
 	return finalHttpErrors
