@@ -3,7 +3,7 @@ HD card image downloader for EDOPro made with Go.
 
 # Installation & Usage
 
-Download the [Latest Release](https://github.com/AndrinoC/EDOPro-GoHD/releases) and unzip it at your EDOPro folder and run the EDOPro-GoHD.exe
+Download the [Latest Release](https://github.com/AndrinoC/EDOPro-GoHD/releases), unzip it at your EDOPro folder and run the EDOPro-GoHD.exe
 
 OR
 
