@@ -1,7 +1,7 @@
 # EDOPro GoHD
 
 This is the GO version of EDOPro Hd Cards.
-Its performance is slightly superior than the Python version.
+It performs slightly better than the Python version.
 
 # Installation & Usage
 
